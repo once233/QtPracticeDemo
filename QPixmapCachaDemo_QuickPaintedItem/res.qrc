@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>method.png</file>
+        <file>pen.png</file>
+        <file>093710484.png</file>
+    </qresource>
+</RCC>
