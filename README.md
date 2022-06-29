@@ -1,5 +1,5 @@
 # QtPracticeDemo
 练习项目：
-1、能选择两个日期并排序的日历 \n
-2、全局类例子 \n
+1、DateTimeEditDemo 能选择两个日期并排序的日历 <br>
+2、全局类例子 
 3、
