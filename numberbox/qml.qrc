@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>sy_list_jia.png</file>
+        <file>sy_list_jian.png</file>
+    </qresource>
+</RCC>
