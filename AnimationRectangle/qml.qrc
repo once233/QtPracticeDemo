@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>record_map.gif</file>
+        <file>record_map1.gif</file>
+    </qresource>
+</RCC>
